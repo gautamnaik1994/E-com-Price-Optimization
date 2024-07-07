@@ -1,6 +1,8 @@
 # E-commerce Price Optimization
 
-Gautam Naik (<gautamnaik1994@gmail.com>)  
+<center> <img src="./ecommerce-price-optimization.png"> </center>
+
+Blog Link: [https://www.gautamnaik.com/blog/ecommerce-price-optimization/](https://www.gautamnaik.com/blog/ecommerce-price-optimization/)
 
 **Business Problem**
 
@@ -68,3 +70,17 @@ We will use amount of revenue earned as a metric
 | Ps3                        | Competitor3 product rating                                                                    |
 | Fp3                        | Competitor3 freight price                                                                     |
 | Lag_price                  | Previous month price of the product.                                                          |
+
+**Recommendations**
+
+- Pricing Strategy
+
+  - In terms of pricing strategy, the Price Elasticity to Demand strategy seems most effective. This strategy is completely based on customer demand and reaction to change in price.
+  - In this strategy, we have only changed the prices of products that are Inelastic, i.e. the products who change in price does not affect customer demand.
+  - This also resulted in higher sales for all the months.
+
+- Product Related
+
+  - Holidays are extremely important. Months with higher number of holidays have higher sales.  
+  - Due to higher number of customers during holidays, new products can be introduced to increase awareness.
+  - Product description length should be around 1000 characters.
